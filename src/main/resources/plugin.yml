@@ -1,0 +1,17 @@
+name: LinkAcc
+
+main: de.mcjunky33.linkacc.LinkAcc
+
+version: 1.0
+
+api-version: 1.13
+
+commands:
+
+  link:
+
+    description: Main command for LinkAcc plugin
+
+    usage: /link
+
+    aliases: []
