@@ -1,4 +1,4 @@
-English Guide
+
 Available for Paper, Bukkit and Spigot servers
 What is LinkAcc?
 LinkAcc is a Minecraft plugin that lets you link and swap player data between two players.
@@ -62,7 +62,6 @@ You can customize these files to change in-game messages however you like.
 Logs & Debugging
 All important actions (like links, errors and data swaps) are logged to your server console.
 
- Deutsche Anleitung
 Für Paper, Bukkit und Spigot Server verfügbar.
 Was ist LinkAcc?
 LinkAcc ist ein Minecraft-Plugin, mit dem du Spielerdaten zwischen zwei Spielern verlinken und tauschen kannst.
