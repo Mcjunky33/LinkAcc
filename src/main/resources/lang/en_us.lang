@@ -1,0 +1,57 @@
+# Help
+help.header=&6=== &eLink Help &6===
+help.link=&e/link link <player> &7- Send a link request
+help.accept=&e/link accept &7- Accept a link request
+help.deny=&e/link deny &7- Deny a link request
+help.unlink=&e/link unlink &7- Remove your link
+help.block=&e/link block <player|all> &7- Block requests
+help.unblock=&e/link unblock <player|all> &7- Unblock requests
+help.list=&e/link list &7- Show your link
+help.swap=&e/link swap &7- Swap your player data
+help.credits=&eplugin by &amcjunky33
+
+# Errors
+error.no_target=&cPlease specify a player name.
+error.cannot_link_self=&cYou cannot link to yourself.
+error.target_not_online=&cThat player is not online.
+error.blocked=&cYou are blocked by that player.
+error.already_linked=&cYou are already linked.
+error.target_has_pending=&cThat player already has a pending request.
+error.no_pending_request=&cYou have no pending request.
+error.not_linked=&cYou are not linked with anyone.
+error.unknown_command=&cUnknown sub-command.
+
+# Requests
+link.request_sent=&aYour link request to {player} has been sent!
+link.request_received=&eYou have received a link request from {player} &4/link deny, &a/link accept.
+
+# Accept/Deny
+link.request_accepted_requester=&a{player} accepted your request!
+link.request_accepted_target=&aYou accepted {player} s request!
+link.request_denied_requester=&c{player} denied your request!
+link.request_denied_target=&cYou denied the request.
+
+# Unlink
+unlink.success=&aYour link has been removed.
+unlink.linked_player_notified=&4the link has been removed.
+
+# Block
+block.all=&cYou are now blocking all link requests.
+block.success=&aYou are now blocking {player}.
+block.notfound=&cPlayer not found.
+unblock.all=&aYou have unblocked all link requests.
+unblock.success=&aYou have unblocked {player}.
+
+# List
+list.no_links=&cYou are not linked with anyone.
+list.linked_with_online=&aYou are linked with {player}.
+list.linked_with_offline=&aYou are linked with offline player {uuid}.
+
+# Playerdata swap
+swap.success=&aYour playerdata has been successfully swapped with {player}.
+swap.fail=&cAn error occurred while swapping playerdata.
+swap.not_linked=&cYou are not linked with anyone. Cannot swap playerdata.
+
+join.linked=&aYou are currently linked with &e{player}&a.
+
+kick.playerdata_switching=Your player data has been successfully swapped.

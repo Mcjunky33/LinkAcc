@@ -1,0 +1,57 @@
+# Hilfe
+help.header=&6=== &eLink Hilfe &6===
+help.link=&e/link link <Spieler> &7- Linkanfrage senden
+help.accept=&e/link accept &7- Linkanfrage annehmen
+help.deny=&e/link deny &7- Linkanfrage ablehnen
+help.unlink=&e/link unlink &7- Verlinkung aufheben
+help.block=&e/link block <Spieler|all> &7- Anfragen blockieren
+help.unblock=&e/link unblock <Spieler|all> &7- Blockierung entfernen
+help.list=&e/link list &7- Zeige deine Verlinkung
+help.swap=&e/link swap &7- Tauscht eure Playerdata aus
+help.credits=&eplugin by &amcjunky33
+
+# Fehler
+error.no_target=&cBitte gib einen Spielernamen an.
+error.cannot_link_self=&cDu kannst dich nicht selbst verlinken.
+error.target_not_online=&cDieser Spieler ist nicht online.
+error.blocked=&cDu wurdest von diesem Spieler blockiert.
+error.already_linked=&cDu bist bereits verlinkt.
+error.target_has_pending=&cFür diesen Spieler besteht schon eine offene Anfrage.
+error.no_pending_request=&cDu hast keine offene Anfrage.
+error.not_linked=&cDu bist mit keinem Spieler verlinkt.
+error.unknown_command=&cUnbekannter Unterbefehl.
+
+# Anfragen
+link.request_sent=&aDeine Linkanfrage an {player} wurde gesendet!
+link.request_received=&eDu hast eine Linkanfrage von {player} erhalten &4/link deny, &a/link accept.
+
+# Akzeptieren/Ablehnen
+link.request_accepted_requester=&a{player} hat deine Anfrage angenommen!
+link.request_accepted_target=&aDu hast die Anfrage von {player} angenommen!
+link.request_denied_requester=&c{player} hat deine Anfrage abgelehnt!
+link.request_denied_target=&cDu hast die Anfrage abgelehnt.
+
+# Verlinkung
+unlink.success=&aDeine Verlinkung wurde aufgehoben.
+unlink.linked_player_notified=&4Die Verlinkung wurde aufhehoben.
+
+# Blockieren
+block.all=&cDu blockierst jetzt alle Linkanfragen.
+block.success=&aDu blockierst jetzt {player}.
+block.notfound=&cSpieler nicht gefunden.
+unblock.all=&aDu hast alle Blockierungen entfernt.
+unblock.success=&aDu hast die Blockierung von {player} entfernt.
+
+# Liste
+list.no_links=&cDu bist mit keinem Spieler verlinkt.
+list.linked_with_online=&aDu bist mit {player} verlinkt.
+list.linked_with_offline=&aDu bist mit dem Offline-Spieler {uuid} verlinkt.
+
+# Playerdata-Swap
+swap.success=&aDeine Playerdata wurde erfolgreich mit {player} getauscht.
+swap.fail=&cBeim Tauschen der Playerdata ist ein Fehler aufgetreten.
+swap.not_linked=&cDu bist mit keinem Spieler verlinkt. Tauschen nicht möglich.
+
+join.linked=&aDu bist aktuell mit &e{player} &averbunden.
+
+kick.playerdata_switching=Dein Playerdata wurde erfolgreich getauscht.
