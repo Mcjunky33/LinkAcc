@@ -1,16 +1,16 @@
 Youtube Video:
 https://youtu.be/M7uoiCPSIdU?si=jmS5TjV1t8SZ8jbQ
 
-Spigot website:
+Spigot Website:
 https://www.spigotmc.org/resources/linkacc.125210/
 
-Modrinth:
+Modrinth Website:
 https://modrinth.com/plugin/linkacc
 
-Curseforge:
+Curseforge Website:
 https://www.curseforge.com/minecraft/bukkit-plugins/linkacc
 
-Donations:
+Donations Website:
 https://streamlabs.com/mcjunky33/tip
 
 English Guide
