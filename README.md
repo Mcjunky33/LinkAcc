@@ -1,3 +1,6 @@
+Youtube Video:
+https://youtu.be/M7uoiCPSIdU?si=jmS5TjV1t8SZ8jbQ
+
 Spigot website:
 https://www.spigotmc.org/resources/linkacc.125210/
 
@@ -7,6 +10,8 @@ https://modrinth.com/plugin/linkacc
 Curseforge:
 https://www.curseforge.com/minecraft/bukkit-plugins/linkacc
 
+Donations:
+https://streamlabs.com/mcjunky33/tip
 
 English Guide
 
