@@ -1,3 +1,13 @@
+Spigot website:
+https://www.spigotmc.org/resources/linkacc.125210/
+
+Modrinth:
+https://modrinth.com/plugin/linkacc
+
+Curseforge:
+https://www.curseforge.com/minecraft/bukkit-plugins/linkacc
+
+
 English Guide
 
 Available for Paper, Bukkit and Spigot servers
